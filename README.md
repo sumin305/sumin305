@@ -1,11 +1,5 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=200&section=header&text=soom%20hub&fontSize=80&fontColor=FFFFFF)    
-</div>
+ <p align="center">![header](https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=200&section=header&text=soom%20hub&fontSize=80&fontColor=FFFFFF)</p>
 
-<div align="center">
-![soom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumin305&show_icons=true)    
-</div>
+ <p align="center">![soom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumin305&show_icons=true)</p>
 
-<div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gogotnals)](https://solved.ac/gogotnals/)   
-</div>
+ <p align="center">![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gogotnals)](https://solved.ac/gogotnals/)</p>
