@@ -53,3 +53,7 @@
   <br/>
 	
 </div>
+
+<div align=center>
+    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gogotnals)](https://solved.ac/glass2300)   
+</div>
