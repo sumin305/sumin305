@@ -32,16 +32,7 @@
   
   <br/>
   <br/>   
-	
-  ## [ Cowork Tools ]
-  <p>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-  </p>
-   <br/>
+
 </div>
 
 <div align=center>   
@@ -53,9 +44,4 @@
 <div align=center>
 	
   <br/>
-  
-	
-## [ My Git Info ]
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sumin305&show_icons=true&theme=swift" align="center" />
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sumin305&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=swift" align="center" />
 </div>
