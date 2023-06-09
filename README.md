@@ -1,7 +1,7 @@
 <div align="center">
  
   <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=150&section=header&text=Sumin%20Lee&fontSize=70&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=150&section=header&text=Sumin%20Github&fontSize=70&fontColor=FFFFFF"/>
   
   <br/>
   
