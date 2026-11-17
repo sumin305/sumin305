@@ -1,8 +1,8 @@
 <div align="center">
  
-  <!-- Header -->
+  <!-- Header
   <img src="https://capsule-render.vercel.app/api?type=Rounded&color=EBFF82&height=150&section=header&text=Sumin's%20Github&fontSize=70&fontColor=000000"/>
-  
+   -->
   <br/>
   
   <!-- Badge -->
